@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (weights, checkpoints)
+*.h5
+*.ckpt
+*.pb
+
+# Environment/config files
+.env
+
+# Dataset folder (optional, if large dataset is included in repo)
+dataset/
